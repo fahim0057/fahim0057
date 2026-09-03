@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src=".ChatGPT Image Sep 3, 2026, 08_50_22 PM.png" alt="MD. Fahim Abdullah - Full Stack Developer" width="100%">
+  <img src="./ChatGPT Image Sep 3, 2026, 08_50_22 PM.png" alt="MD. Fahim Abdullah - Full Stack Developer" width="100%">
 </p>
 
 # 👋 Hello, I'm Fahim Abdullah
