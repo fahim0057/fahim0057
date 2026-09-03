@@ -4,8 +4,6 @@
 </p>
 
 # 👋 Hello, I'm Fahim Abdullah
-
-I'm a Full Stack Developer...
 # 💫 About Me:
 🚀 Currently focused on JavaScript, TypeScript, React.js and Next.js<br>🧠 Learning how to build scalable and maintainable applications<br>🎨 Interested in Frontend Development & UI/UX<br>🔧 Exploring modern development tools and workflows<br>🌱 Continuously improving my problem-solving and programming skills<br>💡 I enjoy turning ideas into real-world web applications<br>🤝 Open to learning, collaboration and interesting projects
 
